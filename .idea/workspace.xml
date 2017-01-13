@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5c6790d-072a-42bc-85e2-91478060459f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/2017/01/11265255_674829192661199_6749393301031294228_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rss/index.rss" afterPath="$PROJECT_DIR$/rss/index.rss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/screen.css" afterPath="$PROJECT_DIR$/assets/css/screen.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/author/johnmajor/index.html" afterPath="$PROJECT_DIR$/author/johnmajor/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/january/amp/index.html" afterPath="$PROJECT_DIR$/january/amp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/january/index.html" afterPath="$PROJECT_DIR$/january/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/author/johnmajor/index.html" afterPath="$PROJECT_DIR$/static/author/johnmajor/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/index.html" afterPath="$PROJECT_DIR$/static/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/january/amp/index.html" afterPath="$PROJECT_DIR$/static/january/amp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/january/index.html" afterPath="$PROJECT_DIR$/static/january/index.html" />
-    </list>
+    <list default="true" id="c5c6790d-072a-42bc-85e2-91478060459f" name="Default" comment="" />
     <ignored path="static.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -100,7 +87,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1134">
+            <state relative-caret-position="-594">
               <caret line="15" column="87" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
               <folding />
             </state>
@@ -276,12 +263,12 @@
       <option name="presentableId" value="Default" />
       <updated>1484326640354</updated>
       <workItem from="1484326642320" duration="1047000" />
-      <workItem from="1484328586580" duration="1441000" />
+      <workItem from="1484328586580" duration="1701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2488000" />
+    <option name="totallyTimeSpent" value="2748000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -448,7 +435,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1134">
+        <state relative-caret-position="-594">
           <caret line="15" column="87" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
           <folding />
         </state>
