@@ -64,7 +64,7 @@ svg:not(:root) { overflow: hidden; }
 figure { margin: 1em 40px; }
 hr { box-sizing: content-box; height: 0; }
 pre { overflow: auto; }
-code, kbd, pre, samp { font-family: monospace, monospace; font-size: 1em; }
+code, kbd, pre, samp { font-family: Yunghkio,Myanmar3,'Masterpiece Uni Sans', monospace, monospace; font-size: 1em; }
 button, input, optgroup, select, textarea {
     color: inherit;
     font: inherit;
@@ -184,7 +184,7 @@ html {
 body {
     height: 100%;
     max-height: 100%;
-    font-family: "Merriweather", serif;
+    font-family: Yunghkio,Myanmar3,'Masterpiece Uni Sans', "Merriweather", serif;
     letter-spacing: 0.01rem;
     font-size: 1.8rem;
     line-height: 1.75em;
@@ -360,7 +360,7 @@ pre {
     border: #E3EDF3 1px solid;
     width: 100%;
     padding: 10px;
-    font-family: Inconsolata, monospace, sans-serif;
+    font-family: Yunghkio,Myanmar3,'Masterpiece Uni Sans', Inconsolata, monospace, sans-serif;
     font-size: 0.9em;
     white-space: pre;
     overflow: auto;
@@ -451,7 +451,7 @@ textarea, select, input {
     padding: 6px 9px;
     margin: 0 0 5px 0;
     outline: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Yunghkio,Myanmar3,'Masterpiece Uni Sans','Open Sans', sans-serif;
     font-size: 1.6rem;
     font-weight: 100;
     line-height: 1.4em;
@@ -949,7 +949,7 @@ body.nav-opened .nav {
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
-    font-family: "Open Sans", sans-serif;
+    font-family: Yunghkio,Myanmar3,'Masterpiece Uni Sans', "Open Sans", sans-serif;
     color: #fff;
 }
 
@@ -958,7 +958,7 @@ body.nav-opened .nav {
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
-    font-family: "Merriweather", serif;
+    font-family: Yunghkio,Myanmar3,'Masterpiece Uni Sans', "Merriweather", serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
 }
@@ -2251,3 +2251,6 @@ body.page-template .post-title {
    End of file. Animations should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
    ========================================================================== */
+
+html {
+   font-family: Yunghkio,Myanmar3,'Masterpiece Uni Sans' !important;
