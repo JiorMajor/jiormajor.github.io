@@ -1,3 +1,0 @@
-User-agent: *
-Sitemap: http://johnmajor.me/sitemap.xml
-Disallow: /ghost/
