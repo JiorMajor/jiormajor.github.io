@@ -1,4 +1,5 @@
 {
+    "url": "http://johnmajor.me",
     "database": {
         "client": "mysql",
         "connection": {
